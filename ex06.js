@@ -7,4 +7,4 @@ var altura = Number(prompt("Digite sua altura(metros): "));
 
 var imc = peso / (altura * altura);
 
-console.log("Seu IMC esta em:",imc);
+console.log("Seu IMC está em :",imc);
