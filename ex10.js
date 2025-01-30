@@ -1,7 +1,7 @@
 const prompt = require('prompt-sync')();
 
-var n1 = Number(prompt("Digite n1  "));
-var n2 = Number(prompt("Digite n2  ")); 
+var n1 = Number(prompt("Digite N1  "));
+var n2 = Number(prompt("Digite N2  ")); 
 var resultado = 0;
 
 
